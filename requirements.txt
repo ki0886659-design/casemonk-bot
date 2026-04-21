@@ -1,2 +1,1 @@
-pip install --upgrade pip setuptools wheel
 aiogram==2.25.1
